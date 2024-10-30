@@ -1,5 +1,6 @@
 - 👋 Hi, I’m @PolimiGiovanniArriciati
-- Italian Student
+- Italian Student @ POLIMI
+- Cybersecurity enthusiast
 - Here to steal your code
 
 <!---
